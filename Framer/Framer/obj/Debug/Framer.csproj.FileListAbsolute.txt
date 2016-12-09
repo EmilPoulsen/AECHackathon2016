@@ -1,0 +1,6 @@
+C:\Users\epoulsen\Documents\GitHub\AECHackathon2016\Framer\Framer\bin\Debug\Framer.dll
+C:\Users\epoulsen\Documents\GitHub\AECHackathon2016\Framer\Framer\bin\Debug\Framer.pdb
+C:\Users\epoulsen\Documents\GitHub\AECHackathon2016\Framer\Framer\obj\Debug\Framer.csprojResolveAssemblyReference.cache
+C:\Users\epoulsen\Documents\GitHub\AECHackathon2016\Framer\Framer\obj\Debug\Framer.dll
+C:\Users\epoulsen\Documents\GitHub\AECHackathon2016\Framer\Framer\obj\Debug\Framer.pdb
+C:\Users\epoulsen\Documents\GitHub\AECHackathon2016\Framer\Framer\bin\Debug\SAP2000v18.dll
